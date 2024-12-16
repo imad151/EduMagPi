@@ -1,0 +1,7 @@
+.idea/
+__pychache__/
+images/
+*.pyc
+build/
+.venv/
+build/
